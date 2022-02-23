@@ -3,3 +3,5 @@ CREATE TABLE users(
     userName VARCHAR(100),
     password VARCHAR(100)
 );
+
+-- testing
